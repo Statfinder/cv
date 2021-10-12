@@ -1,0 +1,23 @@
+body {
+  background-color: #F7F6F2;
+}
+
+hr {
+  background-color: #F7F6F2;
+  border-style: none;
+  border-top-style: dashed;
+  border-top-color: #C8C6C6;
+  border-width: 5px;
+  width: 40%
+}
+h1{
+  color: #00A19D;
+}
+
+th {
+  text-align: center;
+}
+
+td {
+  text-align: left;
+}
